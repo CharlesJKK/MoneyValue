@@ -8,7 +8,7 @@ As tecnologias utilizadas nesse projeto foram:
 
 * Kotlin/xml
 
-## Vercionamento feito com:
+## Versionamento feito com:
 
 * Github
 
